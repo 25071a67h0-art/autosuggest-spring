@@ -17,6 +17,7 @@ h2{
     border-color: gray;
     padding: 20px;
     text-align: center;
+    background-color: rgb(205, 219, 194);
 }
 
 .navbar a{
