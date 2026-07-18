@@ -18,18 +18,17 @@ h2{
     padding: 20px;
     text-align: center;
     background-color: rgb(205, 219, 194);
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .navbar a{
     padding: 25px;
     text-decoration: none;
     color: black;
-    
 }
 .navbar a:hover{
     color:brown;
     background-color: rgb(157, 181, 139);
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 .card{
